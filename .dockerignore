@@ -1,0 +1,4 @@
+node_modules
+scheduled-rides.json
+public/booking-*.png
+.git
